@@ -1,11 +1,13 @@
 bitbooks
 ========
 
-crowd publishing system prototype under construction
+crowd publishing system 
 
-*Poetry Is Code*
+prototype under construction
 
-//a book is an app is an object ...//
+*poetry is code: a book is an app is an object*
+
+
 
 
 
